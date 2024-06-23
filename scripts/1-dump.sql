@@ -12,7 +12,7 @@ CREATE TABLE IF NOT EXISTS ALUNOS (
 
 -- Inserir documentos na tabela
 INSERT INTO ALUNOS (nome, idade, cidade) VALUES
-('Maria', 30, 'Recife'),
+('Mauro Henrique da Silva Nunes', 23, 'Fortaleza'),
 ('Lucas', 25, 'Fortaleza'),
 ('Ana', 35, 'Salvador');
 
